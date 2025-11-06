@@ -1,6 +1,12 @@
 # pycarat---CMPE-255-Assignment
 
 
+## YOUTUBE Videos (Playlist to all Colabs)
+
+<https://www.youtube.com/playlist?list=PLCruIj6WYVQo4Sg5X4ne4evXTMB6lmVJI>
+
+-------
+
 ## 📊 Notebooks - Links to the colabs with outputs included
 
 ### Binary Classification
@@ -28,12 +34,10 @@
 
 ---
 
-### Association Rules Mining
+### Association Rules Mining (Gradio)
 <https://colab.research.google.com/drive/12ZrhqoIq7QKhTzG0B74GGfXDVtvGMckQ?usp=sharing>
 
 ---
 
-### YOUTUBE Videos (Playlist)
 
-<https://www.youtube.com/playlist?list=PLCruIj6WYVQo4Sg5X4ne4evXTMB6lmVJI>
 
