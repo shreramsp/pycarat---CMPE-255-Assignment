@@ -26,3 +26,8 @@
 ### Anomaly Detection
 <https://colab.research.google.com/drive/1Fn0t8rjtr5x15cQvXnW6kcxC1Sm2wTgg?usp=sharing>
 
+---
+
+### Association Rules Mining
+<https://colab.research.google.com/drive/12ZrhqoIq7QKhTzG0B74GGfXDVtvGMckQ?usp=sharing>
+
