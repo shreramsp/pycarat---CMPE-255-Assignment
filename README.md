@@ -41,5 +41,8 @@
 
 ---
 
+### Time Series Forecasting - Univariate without Exogenous Variables
+<https://colab.research.google.com/drive/1Y4OWNojQxOatwtm3AgbU0QrpoGZ2Pml_?usp=sharing>
+
 
 
