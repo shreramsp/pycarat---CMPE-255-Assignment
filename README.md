@@ -31,3 +31,9 @@
 ### Association Rules Mining
 <https://colab.research.google.com/drive/12ZrhqoIq7QKhTzG0B74GGfXDVtvGMckQ?usp=sharing>
 
+---
+
+### YOUTUBE Videos (Playlist)
+
+<https://www.youtube.com/playlist?list=PLCruIj6WYVQo4Sg5X4ne4evXTMB6lmVJI>
+
