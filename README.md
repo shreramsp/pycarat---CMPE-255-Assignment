@@ -21,3 +21,8 @@
 ### Clustering
 <https://colab.research.google.com/drive/1xNekyIlZxnMzo1inWS5K4IqLSUIF0aIJ?usp=sharing>
 
+---
+
+### Anomaly Detection
+<https://colab.research.google.com/drive/1Fn0t8rjtr5x15cQvXnW6kcxC1Sm2wTgg?usp=sharing>
+
