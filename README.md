@@ -36,13 +36,18 @@
 
 ---
 
-### Association Rules Mining (Gradio)
+### Association Rules Mining (GRADIO)
 <https://colab.research.google.com/drive/12ZrhqoIq7QKhTzG0B74GGfXDVtvGMckQ?usp=sharing>
 
 ---
 
 ### Time Series Forecasting - Univariate without Exogenous Variables
 <https://colab.research.google.com/drive/1Y4OWNojQxOatwtm3AgbU0QrpoGZ2Pml_?usp=sharing>
+
+---
+
+### Time Series Forecasting - Univariate WITH Exogenous Variables (GRADIO)
+<https://colab.research.google.com/drive/1sqBgU3cPqUyDujGYvNzQU6OGDrJN3bKo?usp=sharing>
 
 
 
